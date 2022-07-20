@@ -43,7 +43,7 @@ The data set was explored and analyzed to determine the quality of the data.some
 
 After cleaning the data via power query, the data was then imported into Microsoft powerBi to build a dashboard that will help have a clear picture of the major problem
 
-
+![](Capture2.PNG)
 
 # Insights\Findings
 
